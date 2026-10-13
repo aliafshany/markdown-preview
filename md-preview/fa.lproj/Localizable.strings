@@ -280,7 +280,7 @@
 
 /* URL scheme errors */
 "Cannot open link" = "پیوند باز نمی‌شود";
-"“%@” is not a link Markdown Preview understands. Use md-preview://file/ followed by the absolute path of the file, for example md-preview://file/Users/me/notes/README.md." = "\U2068«%@»\U2069 پیوندی نیست که Markdown Preview تشخیص دهد. از md-preview://file/ و به دنبال آن مسیر مطلق فایل استفاده کنید، برای مثال md-preview://file/Users/me/notes/README.md.";
+"“%@” is not a link Markdown Preview understands. Use md-preview://file/ followed by the absolute path of the file, for example md-preview://file/Users/me/notes/README.md." = "\U2068«%@»\U2069 پیوندی نیست که Markdown Preview تشخیص دهد. از \U2068md-preview://file/\U2069 و به دنبال آن مسیر مطلق فایل استفاده کنید، برای مثال \U2068md-preview://file/Users/me/notes/README.md\U2069.";
 
 /* CLI installer errors */
 "Terminal automation failed: %@" = "خودکارسازی Terminal ناموفق بود: %@";
@@ -345,7 +345,7 @@
 "Allow this document to open “%@”?" = "به این سند اجازه داده شود \U2068«%@»\U2069 را باز کند؟";
 "Allow" = "اجازه دادن";
 "Always Allow" = "همیشه اجازه داده شود";
-"Allow all %@: links in documents and Quick Look." = "اجازه دادن به همهٔ پیوندهای \U2068%@\U2069: در اسناد و Quick Look.";
+"Allow all %@: links in documents and Quick Look." = "اجازه دادن به همهٔ پیوندهای \U2068%@:\U2069 در اسناد و Quick Look.";
 
 /* App language */
 "Language" = "زبان";
