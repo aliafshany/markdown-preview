@@ -320,15 +320,15 @@
 "Release Notes" = "یادداشت‌های انتشار";
 "Continue" = "ادامه";
 "Now in Japanese" = "اکنون به زبان ژاپنی";
-"Choose Japanese in Settings → General → Language, or let it follow your system language." = "در Settings → General → Language زبان ژاپنی را انتخاب کنید، یا بگذارید از زبان سیستم پیروی کند.";
+"Choose Japanese in Settings → General → Language, or let it follow your system language." = "در تنظیمات ← عمومی ← زبان، ژاپنی را انتخاب کنید، یا بگذارید از زبان سیستم پیروی کند.";
 "Instant auto save" = "ذخیرهٔ خودکار فوری";
-"Choose Instant in Settings → General to save two seconds after you stop typing." = "در Settings → General گزینهٔ Instant را انتخاب کنید تا دو ثانیه پس از توقف تایپ ذخیره شود.";
+"Choose Instant in Settings → General to save two seconds after you stop typing." = "در تنظیمات ← عمومی، گزینهٔ «فوری» را انتخاب کنید تا دو ثانیه پس از توقف تایپ ذخیره شود.";
 "Expand tables fullscreen" = "گسترش جدول‌ها به تمام‌صفحه";
 "Choose Expand Table to see a wide table fullscreen. Press Escape to go back." = "برای مشاهدهٔ یک جدول عریض به‌صورت تمام‌صفحه، «گسترش جدول» را انتخاب کنید. برای بازگشت، کلید Escape را فشار دهید.";
 "Reopen recent documents" = "باز کردن مجدد اسناد اخیر";
 "Press ⇧⌘O to see your 10 most recent files, even with no document open." = "برای مشاهدهٔ ۱۰ فایل اخیر خود کلیدهای ⇧⌘O را فشار دهید، حتی اگر هیچ سندی باز نباشد.";
 "Choose text alignment" = "انتخاب چینش متن";
-"Set left, center, right, or justified text in Settings → Reading. Quick Look uses it too." = "در Settings → Reading متن را روی چپ‌چین، وسط‌چین، راست‌چین یا هم‌تراز تنظیم کنید. Quick Look نیز از آن استفاده می‌کند.";
+"Set left, center, right, or justified text in Settings → Reading. Quick Look uses it too." = "در تنظیمات ← خواندن، متن را چپ‌چین، وسط‌چین، راست‌چین یا هم‌تراز کنید. Quick Look نیز از آن استفاده می‌کند.";
 "More images in Quick Look" = "تصاویر بیشتر در Quick Look";
 "Quick Look shows images from parent folders and follows links to headings." = "Quick Look تصاویر پوشه‌های والد را نشان می‌دهد و پیوندهای مربوط به سرتیترها را دنبال می‌کند.";
 
@@ -358,14 +358,14 @@
 "Text & layout" = "متن و چیدمان";
 "Markdown" = "Markdown";
 "Outline" = "طرح کلی";
-"Customize the selected theme’s font, spacing and colors. Reset restores that theme’s defaults; global Reading preferences stay unchanged." = "قلم، فاصله‌گذاری و رنگ‌های پوستهٔ انتخاب‌شده را سفارشی‌سازی کنید. گزینهٔ Reset پیش‌فرض‌های آن پوسته را بازمی‌گرداند؛ ترجیحات کلی Reading بدون تغییر باقی می‌مانند.";
+"Customize the selected theme’s font, spacing and colors. Reset restores that theme’s defaults; global Reading preferences stay unchanged." = "قلم، فاصله‌گذاری و رنگ‌های پوستهٔ انتخاب‌شده را سفارشی‌سازی کنید. گزینهٔ Reset پیش‌فرض‌های آن پوسته را بازمی‌گرداند؛ ترجیحات کلی «خواندن» بدون تغییر باقی می‌مانند.";
 "Clicking a link to another Markdown file opens it in a separate window. Turn this off to open it in the current window." = "کلیک روی پیوند به یک فایل Markdown دیگر، آن را در پنجره‌ای جداگانه باز می‌کند. این گزینه را خاموش کنید تا در پنجرهٔ فعلی باز شود.";
 "Customize…" = "سفارشی‌سازی…";
 "Each theme remembers its colors, font and layout. Original also remembers your appearance choice. Reset restores the selected theme’s defaults." = "هر پوسته رنگ‌ها، قلم و چیدمان خود را به خاطر می‌سپارد. پوستهٔ Original همچنین انتخاب ظاهر شما را به یاد می‌سپارد. گزینهٔ Reset پیش‌فرض‌های پوستهٔ انتخاب‌شده را بازمی‌گرداند.";
 "Fonts, spacing and colors" = "قلم‌ها، فاصله‌گذاری و رنگ‌ها";
 "Highlight outline section under the pointer" = "برجسته‌سازی بخش طرح کلی در زیر نشانگر";
 "Open Markdown links in new windows" = "باز کردن پیوندهای Markdown در پنجره‌های جدید";
-"Text size also applies to Quick Look previews. Zooming a document window with ⌘+ and ⌘− changes it too. Fonts and reading layout live in Appearance settings." = "اندازهٔ متن برای پیش‌نمایش‌های Quick Look نیز اعمال می‌شود. بزرگ‌نمایی پنجرهٔ سند با ⌘+ و ⌘− نیز آن را تغییر می‌دهد. قلم‌ها و چیدمان خواندن در تنظیمات Appearance قرار دارند.";
+"Text size also applies to Quick Look previews. Zooming a document window with ⌘+ and ⌘− changes it too. Fonts and reading layout live in Appearance settings." = "اندازهٔ متن برای پیش‌نمایش‌های Quick Look نیز اعمال می‌شود. بزرگ‌نمایی پنجرهٔ سند با ⌘+ و ⌘− نیز آن را تغییر می‌دهد. قلم‌ها و چیدمان خواندن در تنظیمات «ظاهر» قرار دارند.";
 "Themes" = "پوسته‌ها";
 "This theme uses a fixed appearance. Choose Original to change it." = "این پوسته از یک ظاهر ثابت استفاده می‌کند. برای تغییر آن، Original را انتخاب کنید.";
 
@@ -375,7 +375,7 @@
 "Center" = "وسط";
 "Right" = "راست";
 "Justified" = "هم‌تراز";
-"Alignment applies to prose in reading view and Quick Look. Automatic follows the document. Code, tables and explicit HTML alignment are preserved." = "چینش برای متن‌های نثر در نمای خواندن و Quick Look اعمال می‌شود. گزینهٔ Automatic از سند پیروی می‌کند. چینش کد، جدول‌ها و تگ‌های صریح HTML حفظ می‌شود.";
+"Alignment applies to prose in reading view and Quick Look. Automatic follows the document. Code, tables and explicit HTML alignment are preserved." = "چینش برای متن‌های نثر در نمای خواندن و Quick Look اعمال می‌شود. گزینهٔ «خودکار» از سند پیروی می‌کند. چینش کد، جدول‌ها و تگ‌های صریح HTML حفظ می‌شود.";
 
 /* Paper print scale, applied before pagination. */
 "Scale:" = "مقیاس:";
