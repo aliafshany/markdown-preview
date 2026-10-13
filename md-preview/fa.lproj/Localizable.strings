@@ -358,10 +358,10 @@
 "Text & layout" = "متن و چیدمان";
 "Markdown" = "Markdown";
 "Outline" = "طرح کلی";
-"Customize the selected theme’s font, spacing and colors. Reset restores that theme’s defaults; global Reading preferences stay unchanged." = "قلم، فاصله‌گذاری و رنگ‌های پوستهٔ انتخاب‌شده را سفارشی‌سازی کنید. گزینهٔ Reset پیش‌فرض‌های آن پوسته را بازمی‌گرداند؛ ترجیحات کلی «خواندن» بدون تغییر باقی می‌مانند.";
+"Customize the selected theme’s font, spacing and colors. Reset restores that theme’s defaults; global Reading preferences stay unchanged." = "قلم، فاصله‌گذاری و رنگ‌های پوستهٔ انتخاب‌شده را سفارشی‌سازی کنید. گزینهٔ «Reset Theme» پیش‌فرض‌های آن پوسته را بازمی‌گرداند؛ ترجیحات کلی «خواندن» بدون تغییر باقی می‌مانند.";
 "Clicking a link to another Markdown file opens it in a separate window. Turn this off to open it in the current window." = "کلیک روی پیوند به یک فایل Markdown دیگر، آن را در پنجره‌ای جداگانه باز می‌کند. این گزینه را خاموش کنید تا در پنجرهٔ فعلی باز شود.";
 "Customize…" = "سفارشی‌سازی…";
-"Each theme remembers its colors, font and layout. Original also remembers your appearance choice. Reset restores the selected theme’s defaults." = "هر پوسته رنگ‌ها، قلم و چیدمان خود را به خاطر می‌سپارد. پوستهٔ Original همچنین انتخاب ظاهر شما را به یاد می‌سپارد. گزینهٔ Reset پیش‌فرض‌های پوستهٔ انتخاب‌شده را بازمی‌گرداند.";
+"Each theme remembers its colors, font and layout. Original also remembers your appearance choice. Reset restores the selected theme’s defaults." = "هر پوسته رنگ‌ها، قلم و چیدمان خود را به خاطر می‌سپارد. پوستهٔ Original همچنین انتخاب ظاهر شما را به یاد می‌سپارد. گزینهٔ «Reset Theme» پیش‌فرض‌های پوستهٔ انتخاب‌شده را بازمی‌گرداند.";
 "Fonts, spacing and colors" = "قلم‌ها، فاصله‌گذاری و رنگ‌ها";
 "Highlight outline section under the pointer" = "برجسته‌سازی بخش طرح کلی در زیر نشانگر";
 "Open Markdown links in new windows" = "باز کردن پیوندهای Markdown در پنجره‌های جدید";
